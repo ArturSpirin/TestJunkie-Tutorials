@@ -9,8 +9,10 @@ This video covers everything related to parallel test execution and all the sett
 - parallel restriction settings
 - and more
 
-### Test Organization (Coming soon) 
-This video explains best practices for using Test Junkie's metadata properties like feature, category, 
-and tags and gives an example using YouTube website. It also shows how to use TJ CLI once you have organized your tests.
+### [Test Organization](https://www.youtube.com/watch?v=G2zcrm-p56o) 
+This video explains best practices for organizing test with Test Junkie and goes over real examples using YouTube as example.
+After watching this video you will know how to:
+- Label tests with features, components, and tags
+- Use CLI and/or Runner object to execute very specific scope of tests
 
 Get started with [Test Junkie](https://www.test-junkie.com/get-started/)
